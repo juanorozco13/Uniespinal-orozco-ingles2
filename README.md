@@ -13,9 +13,9 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
-| About | Two or three sentences about you |
-| Skills | Your technical and professional skills |
+| Home | my name is juan david orozco gomez, my role is to be a student, jorozco14@itfip.edu.co |
+| About | I’m a student at Uniespinal; I like to get ahead, though to be honest, I don't like studying much. I enjoy playing futsal and micro-futsal. |
+| Skills |I like cleaning the house, I really enjoy going out to party with my friends, and I like gaming in my free time. |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
 | Contact | How people can reach you |
