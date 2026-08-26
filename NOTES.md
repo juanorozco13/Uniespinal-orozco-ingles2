@@ -1,8 +1,8 @@
 # Translation Notes
 
-**Student:** [Your name]
-**Course:** [Inglés I / Inglés II]
-**Date:** [dd/mm/yyyy]
+**Student:** [Juan David Orozco Gomez]
+**Course:** [Inglés II]
+**Date:** [25/08/2026]
 
 ---
 
