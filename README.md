@@ -14,11 +14,11 @@ A public web page with six sections:
 | Section | What goes there |
 |---|---|
 | Home | my name is juan david orozco gomez, my role is to be a student, jorozco14@itfip.edu.co |
-| About | I’m a student at Uniespinal; I like to get ahead, though to be honest, I don't like studying much. I enjoy playing futsal and micro-futsal. |
-| Skills |I like cleaning the house, I really enjoy going out to party with my friends, and I like gaming in my free time. |
-| Resume | Your education and your experience |
-| Projects | The projects you have built |
-| Contact | How people can reach you |
+| About | I’m a student at Uniespinal; I like to get ahead, though to be honest, I don't like studying much. I enjoy playing futsal and micro-futsal |
+| Skills |I like cleaning the house, I really enjoy going out to party with my friends, and I like gaming in my free time |
+| Resume | My approach to learning involves paying closer attention in every class, and I am gaining more knowledge and a positive overall experience|
+| Projects |I haven't fully defined my projects yet, but a colleague and I are working on one involving rice cultivation, and we're going to add moisture sensors to give it a more modern touch |
+| Contact | You can contact me on my mobile phone via call or WhatsApp message at the number 3112243040, or via my institutional email: jorozco14@itfip.edu.co |
 
 ---
 
