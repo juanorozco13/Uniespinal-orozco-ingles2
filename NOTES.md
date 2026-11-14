@@ -28,7 +28,7 @@ This file is where you show that you understood those differences.
 
 ## Question 1 · What did you leave out?
 
-Name **JUAN DAVID** that appears in your Spanish version and does **not** appear
+Name **JUAN DAVID** that appears in your Spanish version and does **JUAN DAVID** appear
 in your English version. Explain why you removed it.
 
 > [Write 2–4 sentences in English.]
