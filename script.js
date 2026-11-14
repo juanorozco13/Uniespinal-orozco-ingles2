@@ -38,22 +38,22 @@ const ES = {
   "about.valueStatus":    "Available for internships",
   "about.interestsTitle": "Interests",
 
-  "interest.1": "PROGRAMMING",
-  "interest.2": "IT SUPPORT",
-  "interest.3": "TECHNOLOGY",
-  "interest.4": "GAMING",
+  "interest.1": "PROGRAMACIÓN",
+  "interest.2": "SOPORTE TÉCNICO",
+  "interest.3": "TECNOLOGÍA",
+  "interest.4": "VIDEOJUEGOS",
 
-  "skills.title":        "PROGRAMADOR",
-  "skills.technical":    "PROGRAMING",
-  "skills.professional": "NINGUNA",
-  "skill.support":       "User support",
-  "skill.teamwork":      "Teamwork",
-  "skill.problem":       "Problem solving",
-  "skill.english":       "Technical English",
+  "skills.title":        "Mis habilidades",
+  "skills.technical":    "Habilidades técnicas",
+  "skills.professional": "Habilidades profesionales",
+  "skill.support":       "SOPORTE al usuario",
+  "skill.teamwork":      "TRABAJO EN EQUIPO",
+  "skill.problem":       "Resolución de problemas",
+  "skill.english":       "INGLES TECNICO",
 
-  "resume.title":      "Education and Experience",
-  "resume.education":  "Formación",
-  "resume.experience": "Experiencia",
+  "resume.title":      "Formación y experiencia",
+  "resume.education":  "Formación academica",
+  "resume.experience": "Experiencia y proyectos ",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
   "edu.1.text":  "SE MAS O MENOS PROGRAMAR ",
@@ -73,10 +73,10 @@ const ES = {
   "project.3.title": "[Nombre del proyecto]",
   "project.3.text":  "[Tecnologías usadas]",
 
-  "contact.title":         "C3112243040",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
+  "contact.title":         "CONTACTO",
+  "contact.intro":         "contact.intro": "¿Tienes un proyecto, una propuesta laboral o una oportunidad de prácticas? Me encantaría conocer tu propuesta. ¡Contáctame y trabajemos juntos!",
   "contact.emailLabel":    "juanchog765@gmail.com",
-  "contact.linkedinValue": "[Tu perfil profesional]",
+  "contact.linkedinValue": "TECH TECNOLOGY",
 
   "footer.note": "JUAN DAVID OROZCO GOMEZ  · Técnico Profesional en Programación Web · UniEspinal"
 };
