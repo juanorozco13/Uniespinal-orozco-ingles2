@@ -1,3 +1,4 @@
+<img width="640" height="640" alt="foto" src="https://github.com/user-attachments/assets/ae0f54ac-799d-4f0f-b9d9-67798a89dc29" />
 # Translation Notes
 
 **Student:** [Juan David Orozco Gomez]
