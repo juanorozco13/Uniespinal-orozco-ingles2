@@ -17,12 +17,12 @@
    1. SPANISH TEXTS
    ------------------------------------------------------------ */
 const ES = {
-  "nav.home":      "JUAN DAVID OROZCO GOMEZ",
-  "nav.about":     "I am a Web Programming student at UniEspinal with a strong interest in website development and information technology. I have basic knowledge of HTML, CSS, JavaScript, and computer systems. I enjoy learning new technologies, building practical projects, and solving technical problems. I am currently seeking an internship opportunity where I can contribute, develop my skills, and gain hands-on experience.",
-  "nav.skills":    "PROGRAMAR",
-  "nav.resume":    "HACER BIEN MI TRABAJO",
-  "nav.portfolio": "ARROZCONECTA",
-  "nav.contact":   "3112243040",
+  "nav.home":      "INICIO",
+  "nav.about":     "SOBRE MI",
+  "nav.skills":    "HABILIDADES",
+  "nav.resume":    "FORMACION",
+  "nav.portfolio": "PROYECTO",
+  "nav.contact":   "CONTACTO",
 
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
@@ -44,7 +44,7 @@ const ES = {
   "interest.4": "GAMING",
 
   "skills.title":        "PROGRAMADOR",
-  "skills.technical":    "PROGRAMAR",
+  "skills.technical":    "PROGRAMING",
   "skills.professional": "NINGUNA",
   "skill.support":       "User support",
   "skill.teamwork":      "Teamwork",
@@ -56,9 +56,9 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.1.text":  "SE MAS O MENOS PROGRAMAR ",
+  "edu.2.title": "AUN NO LOS TENGO",
+  "edu.2.text":  "APRENDI DEMASIADO Y NO TANTO A LA VEZ, AUN ME FALTA APRENDER UN POCO MAS ",
 
   "exp.1.title": "[Rol o tipo de proyecto]",
   "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
@@ -73,12 +73,12 @@ const ES = {
   "project.3.title": "[Nombre del proyecto]",
   "project.3.text":  "[Tecnologías usadas]",
 
-  "contact.title":         "Contacto",
+  "contact.title":         "C3112243040",
   "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
-  "contact.emailLabel":    "Correo",
+  "contact.emailLabel":    "juanchog765@gmail.com",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "JUAN DAVID OROZCO GOMEZ  · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
