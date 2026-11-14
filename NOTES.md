@@ -28,18 +28,14 @@ This file is where you show that you understood those differences.
 
 ## Question 1 · What did you leave out?
 
-Name **JUAN DAVID** that appears in your Spanish version and does **JUAN DAVID** appear
-in your English version. Explain why you removed it.
-
+I left out my full name, JUAN DAVID OROZCO GOMEZ, from the professional profile information because a professional website should focus on my skills, education, and experience. I can use my name in the website header or footer, but I do not need to repeat personal information throughout the profile.
 > [Write 2–4 sentences in English.]
 
 ---
 
 ## Question 2 · What did you not translate?
 
-Name **one technical term** that you kept in English in both versions.
-Explain why translating it would be a bad idea.
-
+One technical term I kept in English is "Responsive Design". I did not translate it because it is a widely used term in web development. It describes websites that automatically adapt to different screen sizes and devices.
 > [Write 2–4 sentences in English.]
 
 ---
@@ -50,11 +46,11 @@ Name **one sentence** that was hard to write in English. Copy the Spanish
 version and your English version. Explain what you changed and why a
 word-by-word translation did not work.
 
-> Spanish: [copy your sentence here]
+> Spanish: Actualmente busco una oportunidad de prácticas profesionales para aplicar mis conocimientos y adquirir experiencia en el mundo laboral.
 >
-> English: [copy your sentence here]
+> English: I am currently seeking an internship opportunity where I can apply my technical knowledge, develop my skills, and gain professional experience.
 >
-> [Write 2–4 sentences in English explaining the change.]
+> I found this sentence difficult because a word-by-word translation sounded unnatural in English. I changed the structure and used "seeking an internship opportunity" to make it sound more professional. I also used "gain professional experience" because it is a natural expression in English.
 
 ---
 
@@ -64,17 +60,13 @@ You may use dictionaries, translators and AI tools. But you must say so here.
 
 **Which tools did you use, and for what?**
 
-> [Write your answer in English. Be specific. For example: "I used
-> Cambridge Dictionary to check the difference between *develop* and
-> *design*." Or: "I used a translator for a first version of the About
-> section, and then I rewrote it because it sounded too formal."]
-
+> I used ChatGPT to help me write and improve my professional profile in Spanish and English. I also used an online translator to understand some technical expressions. Finally, I reviewed the English text to make sure it sounded natural and professional for a junior web developer.
 ---
 
 ## Self-check before you submit
 
-- [ ] Both dictionaries in `script.js` have the same keys.
-- [ ] No `[square brackets]` are left in the page.
+- [X] Both dictionaries in `script.js` have the same keys.
+- [X] No `[square brackets]` are left in the page.
 - [ ] My page has no address, no phone number and no ID number.
 - [ ] The language button works in both directions.
 - [ ] All my links open the correct page.
