@@ -18,7 +18,8 @@ A public web page with six sections:
 | Skills |I like cleaning the house, I really enjoy going out to party with my friends, and I like gaming in my free time |
 | Resume | My approach to learning involves paying closer attention in every class, and I am gaining more knowledge and a positive overall experience|
 | Projects |I haven't fully defined my projects yet, but a colleague and I are working on one involving rice cultivation, and we're going to add moisture sensors to give it a more modern touch |
-| Contact | You can contact me on my mobile phone via call or WhatsApp message at the number 3112243040, or via my institutional email: jorozco14@itfip.edu.co |
+| Contact | You can contact me on my mobile phone via call or WhatsApp message at the number 3112243040, or via my institutional email: juanchog765@gmail.com<img width="640" height="640" alt="foto" src="https://github.com/user-attachments/assets/fbf86858-a481-46db-bd38-4660671b7e5e" />
+ |
 
 ---
 
