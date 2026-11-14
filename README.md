@@ -13,7 +13,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | my name is juan david orozco gomez, my role is to be a student, jorozco14@itfip.edu.co |
+| Home | my name is juan david orozco gomez, my role is to be a student, juanchog765@gmail.com |
 | About | I’m a student at Uniespinal; I like to get ahead, though to be honest, I don't like studying much. I enjoy playing futsal and micro-futsal |
 | Skills |I like cleaning the house, I really enjoy going out to party with my friends, and I like gaming in my free time |
 | Resume | My approach to learning involves paying closer attention in every class, and I am gaining more knowledge and a positive overall experience|
